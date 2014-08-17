@@ -17,7 +17,7 @@ $ ./gpa-calc
 
 ## Future Updates
 * Pass in the University of Adelaide Access Adelaide generated academic transcript file and the program will automatically calculate your GPA score
-* GUI version of the app
+* GUI version of the app written in Ruby on Rails and hosted on Heroku
 
 ## License
 This application is released under the [MIT License](http://www.opensource.org/licenses/MIT).
