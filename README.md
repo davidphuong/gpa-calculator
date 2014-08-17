@@ -16,7 +16,7 @@ $ ./gpa-calc
 ```
 
 ## Future Updates
-* Pass in the Access Adelaide generated academic transcript file and the program will automatically calculate your GPA score
+* Pass in the University of Adelaide Access Adelaide generated academic transcript file and the program will automatically calculate your GPA score
 * GUI version of the app
 
 ## License
